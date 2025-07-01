@@ -103,3 +103,7 @@ Feel free to fork this repository, suggest improvements, or submit pull requests
 
 ---
 
+### Output
+
+<img width="961" alt="Image" src="https://github.com/user-attachments/assets/6ea4d058-ceef-4ac1-8e0c-160d4712f6ef" />
+
