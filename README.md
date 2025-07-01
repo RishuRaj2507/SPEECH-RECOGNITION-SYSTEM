@@ -1,5 +1,16 @@
 # SPEECH-RECOGNITION-SYSTEM
 
+*Company* - *CODTECH IT SOLUTIONS*
+
+*NAME* - *RISHU RAJ*
+
+*INTERN ID* - *CT04DF2641*
+
+*DOMAIN* - *ARTIFICIAL INTELLIGENCE*
+
+*DURATION* - *4 WEEKS*
+
+*MENTOR* - *NEELA SANTHOSH KUMAR*
 ---
 
 ## 🎙️ Real-Time Speech-to-Text using Python and Google Speech Recognition API
